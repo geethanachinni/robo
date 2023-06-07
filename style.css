@@ -3,7 +3,7 @@
     width: 350px;
     border: 2px solid transparent;
     margin: auto;
-    margin-top: 5%;
+    margin-top: 6%;
     position: relative;
 
 }
@@ -102,6 +102,8 @@
     height: 220px;
     width: 200px;
     background-color: skyblue;
+ 
+
     border-bottom-left-radius: 25%;
     border-bottom-right-radius: 25%;
     position: absolute;
@@ -136,6 +138,7 @@
     height: 120px;
     width: 40px;
     background-color:hotpink;
+ 
     margin-top: 5%;
     border-radius: 100px 100px 100px 100px;
     transition: transform 1s linear;
@@ -252,3 +255,9 @@
     margin-top: 5%;
     border-radius: 100px 100px 100px 100px;
 }
+/* body{
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20200630/pngtree-neon-double-color-futuristic-frame-colorful-background-image_340466.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+} */
